@@ -28,17 +28,22 @@ padding: 20px;
 margin-top: 10px;
 border: 2px solid #999;
 width: 400px;
+display: inline;
 float: left;
 }
 
 aside {
     margin-top: 10px;
     border: 2px solid #999;
-    width: 154px;
+    width: 152px;
     float: right;
 }
 
 footer {
     border: 2px solid #999;
     margin-top: 10px;
+}
+
+.clear{
+    clear: both;
 }
